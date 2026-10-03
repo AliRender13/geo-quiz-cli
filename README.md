@@ -42,3 +42,7 @@ Pick a mode from the menu:
 - Add a country shape to `OUTLINES` — a few lines of `#`.
 
 Built by [Mohammad Ali](https://github.com/AliRender13).
+
+## In the wild
+
+- 🎬 [Code walkthrough video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7512026440117379073/) — watch a full quiz round play out in 50 seconds.
